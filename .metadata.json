@@ -1,10 +1,10 @@
 [
   {
-    "package": "salesforcer",
+    "package": "rdfp",
     "oncran": true
   },
   {
-    "package": "rdfp",
+    "package": "salesforcer",
     "oncran": true
   }
 ]
