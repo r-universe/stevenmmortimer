@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rdfp"]
 	path = rdfp
 	url = https://github.com/stevenmmortimer/rdfp
-	shallow = true
-	registered = true
 [submodule "salesforcer"]
 	path = salesforcer
 	url = https://github.com/stevenmmortimer/salesforcer
-	shallow = true
-	registered = true
