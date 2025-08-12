@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rdfp"]
-	path = rdfp
-	url = https://github.com/stevenmmortimer/rdfp
 [submodule "salesforcer"]
 	path = salesforcer
 	url = https://github.com/stevenmmortimer/salesforcer
